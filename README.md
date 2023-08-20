@@ -1,1 +1,1 @@
-# Priority based scheduling across multiple node pools.
+# Running GKE workloads with priority based scheduling between node pools 
