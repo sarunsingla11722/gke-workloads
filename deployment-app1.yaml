@@ -37,4 +37,4 @@ spec:
         image: nginx:1.14.2
         ports:
         - containerPort: 80
-      priorityClassName: low-priority
+      priorityClassName: low-priority-apps
